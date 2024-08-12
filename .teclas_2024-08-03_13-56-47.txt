@@ -1,7 +1,0 @@
-13:57:05: Key.backspace
-13:57:05: Key.backspace
-13:57:06: Key.space
-13:57:06: None
-13:57:07: None
-13:57:07: Key.ctrl_l
-13:57:08: 
